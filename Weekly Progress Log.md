@@ -27,16 +27,16 @@
   
   ### Week 2 Be Great At Everything You Do
 - Product Narrative: A news and information content platform designed for self-directed equity retail investor.
-- [Napkin Business Canvas](https://docs.google.com/document/d/1Iew2yLb5J71DLXwsR7ixzCkxphyB_lheAxr80UwJEbc/edit?usp=sharing).
-- [20 Top Questions](https://docs.google.com/document/d/1btrs6M-PB5BxFAJ9RovT-VXU55-6pOOMLuFmJjFfyCY/edit?usp=sharing).
+- [Team Contract](https://docs.google.com/document/d/1w7ALPKUZFpAIphwM4LaiszpA1Hx7LQKwsqINTEY72NA/edit?usp=sharing).
+- [20 Questions with Answer](https://docs.google.com/document/d/1btrs6M-PB5BxFAJ9RovT-VXU55-6pOOMLuFmJjFfyCY/edit?usp=sharing).
   
-- Progress this week (1/29/18)
+- Progress this week (2/6/18)
   - Completed required artifacts, 20 questions, and Napkin Canvas
   - Recorded feedback from pitch battle and made pitch concise
   - Researched similar products
   - Established git repository 
   - Established semester-long schedule 
-- Week Ahead (2/5/18)
+- Week Ahead (2/11/18)
   - Schedule user research to refine product narrative
   - Finalize function models that we are determined to test-build 
   - Try to build visualize our design prototype 
