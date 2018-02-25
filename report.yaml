@@ -1,0 +1,31 @@
+company:
+  name: Denser
+  logo: logo.JPG
+how_might_we: How might we give novice retail investors the most relevant information efficiently to aid their individual stock investment decisions. 
+
+product_narrative: |
+  Denser helps novice retail investors know more by reading less
+team:
+  picture: ppg.pgn
+
+  roster:
+    - name: David Ma
+      email: zm57@cornell.edu
+      picture: TEAM MEMBER 1 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+    - name: Bob Zhu
+      email: xz573@cornell.edu
+      picture: TEAM MEMBER 2 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+    - name: Eli Ye
+      email: yy748@cornell.edu
+      picture: TEAM MEMBER 3 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+    - name: Carmen Fang
+      email: jf442@cornell.edu
+      picture: TEAM MEMBER 4 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/1wCwMIr46BKdN0v9ck6QxpNEjy0VCatM6P-Ke4UAafeE/edit?usp=sharing
+- title: Sprint 2
+  url: URL OF YOUR SPRINT 2 WORK/PRESENTATION
+- title: Sprint 3
+  url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
