@@ -1,4 +1,4 @@
-# powerpuffgirlandothers
+# Forward
 Product Studio - Cornell Tech 2018
 
-We are aiming at building the go-to information aggregator for retail investors.
+Forward is a reliable and versatile platform for users to log their exercise to gain workout reimbursement.
